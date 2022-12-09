@@ -11,12 +11,5 @@ I will officially fill it with projects starting in 2023. A clean slate!
 - PROJECTS DONE:
 
 - PROJECTS TO COME:
-server-sided game (something simple, like Tetris)
---   simple graphical game in MIPS assembler (also maybe Tetris, or Pong)
-
-- [x] Completed task
-- [~] Inapplicable task
-- [ ] Incomplete task
-  - [x] Sub-task 1
-  - [~] Sub-task 2
-  - [ ] Sub-task 3
+- [ ] simple graphical game in MIPS assembler (also maybe Tetris, or Pong)
+- [ ] server-sided game (something simple, like Tetris)
